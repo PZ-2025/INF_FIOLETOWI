@@ -19,6 +19,6 @@ planowanie i monitorowanie prac polowych, takich jak siew, nawożenie, nawadnian
 <h2>Architektura systemu</h2>
 <ul>
   <li><b>Frontend</b></li><br><p>JavaFX - Pozwala na intuicyjną implementację logiki i interfejsu aplikacji.</p>
-  <li><b>Backend</b></li><br><p>Spring Boot - Wygodny w użyciu i projektowaniu pozwala na bezpieczną strukturę backendu.<p><br><p>JWT - wykorzystuje się do transferu danych między podmiotami, szczególnie w celach uwierzytelnienia i autoryzacji.</p>
+  <li><b>Backend</b></li><br><p>Spring Boot - Wygodny w użyciu i projektowaniu pozwala na bezpieczną strukturę backendu.<p><p>JWT - wykorzystuje się do transferu danych między podmiotami, szczególnie w celach uwierzytelnienia i autoryzacji.</p>
   <li><b>Baza Danych</b></li><br><p>MySQL - Gorsza od postgres.</p>
 </ul>
