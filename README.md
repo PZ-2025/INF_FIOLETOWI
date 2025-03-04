@@ -1,4 +1,4 @@
-<h1>INF_FIOLETOWI</h1> (Programowanie Zespołowe)
+<h1>INF_FIOLETOWI</h1>(Programowanie Zespołowe)
 <br />
 <h2>Opis projektu</h2>
 <br />
