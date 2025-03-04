@@ -8,15 +8,17 @@ planowanie i monitorowanie prac polowych, takich jak siew, nawożenie, nawadnian
 <br />
 <h2>Zespół projektowy</h2>
 <br />
-<b>Marcin Paśko </b><br /> - Lider, Programista, Tester. Rest API + Logika biznesowa aplikacji + Generowanie raportów + Javadoc + Testy jednostkowe + Testy aplikacji
-<b>Cyprian Schiffer</b><br /> Programista, Tester. Rest API + Logika biznesowa aplikacji + Generowanie raportów + Javadoc + OpenAPI + Testy aplikacji  
-<b>Alicja Dołęga</b><br /> Programista, Tester. Logika aplikacji po stronie Frontend + Implementacja GUI + Spring Security + Testy aplikacji 
-<b>Monika Błaut</b><br /> Programista, Tester. Logika aplikacji po stronie Frontend + Implementacja GUI + Baza danych + Testy aplikacji 
-<b>Piotr Bieszczad</b><br /> Programista, Tester, UI/UX Designer. Projektowanie oraz wsparcie implementacji GUI + Testy jednostkowe + Integracja Frontend z Backend + Testy aplikacji 
-<br />
+<ul>
+<ul><b>Marcin Paśko </b> <br />- Lider, Programista, Tester. Rest API + Logika biznesowa aplikacji + Generowanie raportów + Javadoc + Testy jednostkowe + Testy aplikacji</ul>
+<ul><b>Cyprian Schiffer</b> <br />Programista, Tester. Rest API + Logika biznesowa aplikacji + Generowanie raportów + Javadoc + OpenAPI + Testy aplikacji  </ul>
+<ul><b>Alicja Dołęga</b> <br />Programista, Tester. Logika aplikacji po stronie Frontend + Implementacja GUI + Spring Security + Testy aplikacji </ul>
+<ul><b>Monika Błaut</b> <br />Programista, Tester. Logika aplikacji po stronie Frontend + Implementacja GUI + Baza danych + Testy aplikacji </ul>
+<ul><b>Piotr Bieszczad</b> <br />Programista, Tester, UI/UX Designer. Projektowanie oraz wsparcie implementacji GUI + Testy jednostkowe + Integracja Frontend z Backend + Testy aplikacji</ul> 
+</ul>
+  <br />
 <h2>Architektura systemu</h2>
 <ul>
   <li><b>Frontend</b></li><br><p>JavaFX - Pozwala na intuicyjną implementację logiki i interfejsu aplikacji.</p>
-  <li><b>Backend</b></li><br><p>Spring Boot, JWT- Wygodny w użyciu i projektowaniu pozwala na bezpieczną strukturę backendu.<p>
+  <li><b>Backend</b></li><br><p>Spring Boot - Wygodny w użyciu i projektowaniu pozwala na bezpieczną strukturę backendu.<p> <br /><p>JWT - wykorzystuje się do transferu danych między podmiotami, szczególnie w celach uwierzytelnienia i autoryzacji.</p>
   <li><b>Baza Danych</b></li><br><p>MySQL - Gorsza od postgres.</p>
 </ul>
