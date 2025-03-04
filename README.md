@@ -8,11 +8,11 @@ planowanie i monitorowanie prac polowych, takich jak siew, nawożenie, nawadnian
 <br />
 <h2>Zespół projektowy</h2>
 <br />
-<b>Marcin Paśko </b> - Lider, Programista, Tester. Rest API + Logika biznesowa aplikacji + Generowanie raportów + Javadoc + Testy jednostkowe + Testy aplikacji
-<b>Cyprian Schiffer</b> Programista, Tester. Rest API + Logika biznesowa aplikacji + Generowanie raportów + Javadoc + OpenAPI + Testy aplikacji  
-<b>Alicja Dołęga</b> Programista, Tester. Logika aplikacji po stronie Frontend + Implementacja GUI + Spring Security + Testy aplikacji 
-<b>Monika Błaut</b> Programista, Tester. Logika aplikacji po stronie Frontend + Implementacja GUI + Baza danych + Testy aplikacji 
-<b>Piotr Bieszczad</b> Programista, Tester, UI/UX Designer. Projektowanie oraz wsparcie implementacji GUI + Testy jednostkowe + Integracja Frontend z Backend + Testy aplikacji 
+<b>Marcin Paśko </b><br /> - Lider, Programista, Tester. Rest API + Logika biznesowa aplikacji + Generowanie raportów + Javadoc + Testy jednostkowe + Testy aplikacji
+<b>Cyprian Schiffer</b><br /> Programista, Tester. Rest API + Logika biznesowa aplikacji + Generowanie raportów + Javadoc + OpenAPI + Testy aplikacji  
+<b>Alicja Dołęga</b><br /> Programista, Tester. Logika aplikacji po stronie Frontend + Implementacja GUI + Spring Security + Testy aplikacji 
+<b>Monika Błaut</b><br /> Programista, Tester. Logika aplikacji po stronie Frontend + Implementacja GUI + Baza danych + Testy aplikacji 
+<b>Piotr Bieszczad</b><br /> Programista, Tester, UI/UX Designer. Projektowanie oraz wsparcie implementacji GUI + Testy jednostkowe + Integracja Frontend z Backend + Testy aplikacji 
 <br />
 <h2>Architektura systemu</h2>
 <ul>
