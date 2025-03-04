@@ -9,7 +9,7 @@ planowanie i monitorowanie prac polowych, takich jak siew, nawożenie, nawadnian
 <h2>Zespół projektowy</h2>
 <br />
 <ul>
-<li><b>Marcin Paśko </b> <br /> <em>Lider</em>, Programista, Tester.<br>Rest API + Logika biznesowa aplikacji + Generowanie raportów + Javadoc + Testy jednostkowe + Testy aplikacji</li>
+<li><b>Marcin Paśko </b> <br /> <em>Lider</em>, Programista, Tester.<br><h6>Zakres Odpowiedzialniości</h6><br>Rest API + Logika biznesowa aplikacji + Generowanie raportów + Javadoc + Testy jednostkowe + Testy aplikacji</li>
 <li><b>Cyprian Schiffer</b> <br />Programista, Tester.<br>Rest API + Logika biznesowa aplikacji + Generowanie raportów + Javadoc + OpenAPI + Testy aplikacji  </li>
 <li><b>Alicja Dołęga</b> <br />Programista, Tester.<br>Logika aplikacji po stronie Frontend + Implementacja GUI + Spring Security + Testy aplikacji </li>
 <li><b>Monika Błaut</b> <br />Programista, Tester.<br>Logika aplikacji po stronie Frontend + Implementacja GUI + Baza danych + Testy aplikacji </li>
