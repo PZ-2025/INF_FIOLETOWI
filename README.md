@@ -9,11 +9,11 @@ planowanie i monitorowanie prac polowych, takich jak siew, nawożenie, nawadnian
 <h2>Zespół projektowy</h2>
 <br />
 <ul>
-<li><b>Marcin Paśko </b> <br />- Lider, Programista, Tester.  Rest API + Logika biznesowa aplikacji + Generowanie raportów + Javadoc + Testy jednostkowe + Testy aplikacji</li>
-<li><b>Cyprian Schiffer</b> <br />Programista, Tester.  Rest API + Logika biznesowa aplikacji + Generowanie raportów + Javadoc + OpenAPI + Testy aplikacji  </li>
-<li><b>Alicja Dołęga</b> <br />Programista, Tester.  Logika aplikacji po stronie Frontend + Implementacja GUI + Spring Security + Testy aplikacji </li>
-<li><b>Monika Błaut</b> <br />Programista, Tester.  Logika aplikacji po stronie Frontend + Implementacja GUI + Baza danych + Testy aplikacji </li>
-<li><b>Piotr Bieszczad</b> <br />Programista, Tester, UI/UX Designer.  Projektowanie oraz wsparcie implementacji GUI + Testy jednostkowe + Integracja Frontend z Backend + Testy aplikacji</li> 
+<li><b>Marcin Paśko </b> <br />- Lider, Programista, Tester.<br>Rest API + Logika biznesowa aplikacji + Generowanie raportów + Javadoc + Testy jednostkowe + Testy aplikacji</li>
+<li><b>Cyprian Schiffer</b> <br />Programista, Tester.<br>Rest API + Logika biznesowa aplikacji + Generowanie raportów + Javadoc + OpenAPI + Testy aplikacji  </li>
+<li><b>Alicja Dołęga</b> <br />Programista, Tester.<br>Logika aplikacji po stronie Frontend + Implementacja GUI + Spring Security + Testy aplikacji </li>
+<li><b>Monika Błaut</b> <br />Programista, Tester.<br>Logika aplikacji po stronie Frontend + Implementacja GUI + Baza danych + Testy aplikacji </li>
+<li><b>Piotr Bieszczad</b> <br />Programista, Tester, UI/UX Designer.<br>Projektowanie oraz wsparcie implementacji GUI + Testy jednostkowe + Integracja Frontend z Backend + Testy aplikacji</li> 
 </ul>
   <br />
 <h2>Architektura systemu</h2>
