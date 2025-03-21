@@ -1,4 +1,4 @@
-package com.example.farm_registration;
+package org.fioletowi.frontend;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
