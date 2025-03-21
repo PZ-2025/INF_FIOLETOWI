@@ -1,4 +1,4 @@
-package com.example.farm_registration.auth;
+package org.fioletowi.frontend.auth;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
