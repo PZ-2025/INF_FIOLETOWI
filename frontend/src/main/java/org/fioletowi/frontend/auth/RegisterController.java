@@ -1,7 +1,7 @@
-package com.example.farm_registration.auth;
+package org.fioletowi.frontend.auth;
 
-import com.example.farm_registration.config.ConfigLoader;
-import com.example.farm_registration.util.LocalDateTimeAdapter;
+import org.fioletowi.frontend.config.ConfigLoader;
+import org.fioletowi.frontend.util.LocalDateTimeAdapter;
 import com.google.gson.Gson;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
