@@ -5,6 +5,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 public class UserSession {
+    
     @Getter
     @Setter
     private static UserResponse currentUser;
