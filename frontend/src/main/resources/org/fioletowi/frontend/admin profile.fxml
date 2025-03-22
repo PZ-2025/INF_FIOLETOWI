@@ -13,7 +13,7 @@
          <children>
             <Pane layoutX="8.0" layoutY="70.0" prefHeight="37.0" prefWidth="110.0" style="-fx-background-color: #1F4529; -fx-background-radius: 10;">
                <children>
-                  <Text fill="WHITE" layoutX="8.0" layoutY="23.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Welcome (Admin)" />
+                  <Text fill="WHITE" layoutX="8.0" layoutY="23.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Welcome (Owner)" />
                </children>
             </Pane>
             <Button layoutX="34.0" layoutY="296.0" mnemonicParsing="false" style="-fx-background-color: #1F4529;" text="Log Out" textFill="WHITE" />
