@@ -1,4 +1,4 @@
-package com.example.farm_registration.auth;
+package org.fioletowi.frontend.auth;
 
 import lombok.Builder;
 import lombok.Getter;
