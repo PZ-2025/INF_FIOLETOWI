@@ -54,7 +54,7 @@ public class ChangePasswordController {
                     .uri(new URI(apiUrl + "/auth/change-password"))
                     .header("Authorization", "Bearer " + token)
                     .header("Content-Type", "application/json")
-                    .method("PATCH", HttpRequest.BodyPublishers.ofString(requestBody, StandardCharsets.UTF_8))  // Using PATCH instead of POST
+                    .method("PATCH", HttpRequest.BodyPublishers.ofString(requestBody, StandardCharsets.UTF_8))
                     .build();
 
             HttpResponse<String> response = httpClient.send(request, HttpResponse.BodyHandlers.ofString());
