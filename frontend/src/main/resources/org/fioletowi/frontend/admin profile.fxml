@@ -91,7 +91,6 @@
                   <Font name="System Bold" size="12.0" />
                </font>
             </Text>
-
             <Label fx:id="emailLabel" layoutX="130.0" layoutY="68.0" text="()">
                <font>
                   <Font name="System Bold" size="12.0" />
