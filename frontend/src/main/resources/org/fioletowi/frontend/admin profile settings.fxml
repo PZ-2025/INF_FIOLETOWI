@@ -9,7 +9,7 @@
 <Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity"
       prefHeight="250.0" prefWidth="300.0" style="-fx-background-color: #FFE8B6;"
       xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1"
-      fx:controller="com.example.farm_registration.user_profile.UserSettingsController">
+      fx:controller="org.fioletowi.frontend.user_profile.UserSettingsController">
 
    <children>
       <Pane layoutX="73.0" layoutY="21.0" prefHeight="30.0" prefWidth="155.0"
