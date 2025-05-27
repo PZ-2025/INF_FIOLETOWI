@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Deadline Approaching</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fff8e1;
+        }
+        .container {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(255, 165, 0, 0.3);
+            border-left: 5px solid #ff8c00;
+        }
+        .header {
+            text-align: center;
+            color: #ff8c00;
+        }
+        .content {
+            font-size: 16px;
+            color: #333;
+            line-height: 1.6;
+        }
+        .highlight {
+            font-size: 18px;
+            font-weight: bold;
+            color: #ff8c00;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 14px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1 class="header">Task Deadline Approaching</h1>
+    <p class="content">
+        Hello <span class="highlight" th:text="${first_name} + ' ' + ${last_name}"></span>,
+    </p>
+    <p class="content">
+        Your task "<span class="highlight" th:text="${task_name}"></span>" is approaching its deadline.
+    </p>
+    <p class="content">
+        <strong>Description:</strong> <span th:text="${task_description}"></span><br>
+        <strong>Priority:</strong> <span th:text="${task_priority}"></span><br>
+        <strong>Deadline:</strong> <span class="highlight" th:text="${task_end_date}"></span>
+    </p>
+    <p class="content">
+        Please make sure to complete it on time.
+    </p>
+    <p class="footer">
+        Best regards,<br/>
+        The Farma Team
+    </p>
+</div>
+</body>
+</html>
