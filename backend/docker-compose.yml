@@ -1,0 +1,16 @@
+services:
+  db:
+    image: mysql:8
+    container_name: farma
+    ports:
+      - "3306:3306"
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: changemelater
+      MYSQL_DATABASE: farma
+      MYSQL_USER: user
+      MYSQL_PASSWORD: userpassword
+    volumes:
+      - db_data:/var/lib/mysql
+volumes:
+  db_data:
